@@ -7,16 +7,18 @@ Time spent: **5** hours spent in total
 ## Pentesting Report
 
 1. (Required) Authenticated Shortcode Tags Cross-Site Scripting (XSS)
-  - [ ] Summary: 
+  - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.5
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: Comment as a admin or a editor authorization with the following 
+  - [x] GIF Walkthrough: <img src="week7_1.gif" width="800">
+  - [x] Steps to recreate: Comment as a admin or a editor authorization with the following 
         <a href = "XSS" onmouseover=alert(1) rel="nofollow">CLICK ME!</a>  
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
-1. (Required) Vulnerability Name or ID
+
+
+2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
     - Tested in version:
