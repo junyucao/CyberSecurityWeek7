@@ -13,7 +13,7 @@ Time spent: **5** hours spent in total
     - Fixed in version: 4.2.5
   - [x] GIF Walkthrough: <img src="week7_1.gif" width="800">
   - [x] Steps to recreate: Comment as a admin or a editor authorization with the following 
-        <a href = "XSS" onmouseover=alert(1) rel="nofollow">CLICK ME!</a>  
+        `<a href = "XSS" onmouseover=alert(1) rel="nofollow">CLICK ME!</a>`  
   - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 
