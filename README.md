@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -26,19 +26,19 @@ Time spent: **5** hours spent in total
   - [x] GIF Walkthrough: <img src="week7_2.gif" width="800">
   - [x] Steps to recreate: Post comment with 
         `[embed src='https://www.youtube.com/embed/12345\x3csvg onload=alert(1)\x3e'][/embed]`
-  - [ ] Affected source code:
+  - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 
 
-3. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+3. Large File Upload Error XSS
+  - [x] Summary: 
+    - Vulnerability types:XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.15 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/WordPress/WordPress/commit/8c7ea71edbbffca5d9766b7bea7c7f3722ffafa6)
 
 ## Assets
 
