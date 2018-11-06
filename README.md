@@ -6,7 +6,7 @@ Time spent: **5** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Authenticated Shortcode Tags Cross-Site Scripting (XSS)
+1. Authenticated Shortcode Tags Cross-Site Scripting (XSS)
   - [x] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -18,7 +18,18 @@ Time spent: **5** hours spent in total
     - [Link 1](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 
 
-2. (Required) Vulnerability Name or ID
+2. Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
+  - [x] Summary: 
+    - Vulnerability types:XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.13
+  - [x] GIF Walkthrough: <img src="week7_2.gif" width="800">
+  - [ ] Steps to recreate: 
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+
+
+3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
     - Tested in version:
@@ -27,33 +38,6 @@ Time spent: **5** hours spent in total
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
