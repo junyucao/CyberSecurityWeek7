@@ -30,15 +30,15 @@ Time spent: **6** hours spent in total
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 
 
-3. Large File Upload Error XSS
+3. User Enumeration
   - [x] Summary: 
     - Vulnerability types:XSS
     - Tested in version: 4.2
-    - Fixed in version: 4.2.15 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://github.com/WordPress/WordPress/commit/8c7ea71edbbffca5d9766b7bea7c7f3722ffafa6)
+    - Fixed in version: 
+  - [x] GIF Walkthrough: 
+  - [x] Steps to recreate: Login using different usernames and wrong password, and wordpress will verify if username exist
+  - [x] Affected source code:
+    - [Link 1](https://www.exploit-db.com/exploits/41497/)
 
 ## Assets
 
