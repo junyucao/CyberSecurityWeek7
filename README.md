@@ -35,7 +35,7 @@ Time spent: **6** hours spent in total
     - Vulnerability types:XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [x] GIF Walkthrough: 
+  - [x] GIF Walkthrough: <img src="week7_3.gif" width="800"> 
   - [x] Steps to recreate: Login using different usernames and wrong password, and wordpress will verify if username exist
   - [x] Affected source code:
     - [Link 1](https://www.exploit-db.com/exploits/41497/)
@@ -57,7 +57,7 @@ Describe any challenges encountered while doing the work
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Jun Yu Cao]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
