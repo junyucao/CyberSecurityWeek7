@@ -34,6 +34,7 @@ Time spent: **6** hours spent in total
   - [x] Summary: 
     - Vulnerability types:XSS
     - Tested in version: 4.2
+    - Fixed in version: 4.7.2
   - [x] GIF Walkthrough: <img src="week7_3.gif" width="800"> 
   - [x] Steps to recreate: Login using different usernames and wrong password, and wordpress will verify if username exist
   - [x] Affected source code:
